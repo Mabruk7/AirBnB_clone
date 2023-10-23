@@ -8,7 +8,7 @@ Installation
 
 To have access to the console use the following command:
 
-git clone https://github.com/Vipah1/AirBnB_clone.git; cd AirBnB_clone
+git clone https://github.com/mabruk7/AirBnB_clone.git; cd AirBnB_clone
 
 If you want to execute the console use:
 
